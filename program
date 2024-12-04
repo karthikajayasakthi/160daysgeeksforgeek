@@ -1,5 +1,6 @@
-DAY-2
-Move all zeros to end
+
+Move all zeros to end:
+Given an array arr[]. Push all the zeros of the given array to the right end of the array while maintaining the order of non-zero elements. Do the mentioned change in the array in place.
 
 PROGRAM:
 
@@ -15,8 +16,3 @@ class Solution:
             arr[count]=0
             count+=1
 
-screenshots :
-![Screenshot (419)](https://github.com/user-attachments/assets/df9ee811-938b-45f5-ae83-591666f32c52)
-
-
-![Screenshot (418)](https://github.com/user-attachments/assets/71797fc1-d9be-4266-9962-b45bb37bd2f1)
